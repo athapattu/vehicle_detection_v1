@@ -1,0 +1,8 @@
+
+path: /Users/user1/Downloads/CV/car  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: car # only detecting once class
